@@ -37,8 +37,7 @@ CREATE TABLE `admins` (
 -- Dumping data for table `admins`
 --
 
-INSERT INTO `admins` (`id`, `username`, `password_hash`) VALUES
-(1, 'admin', '$2y$12$OG5eMX.qZHu6oUHA01XtbeeRy92OYqlww5EdvR3bXSZMl/L0iKyqi');
+-- Tidak ada akun admin bawaan. Buat akun admin sendiri setelah impor database.
 
 -- --------------------------------------------------------
 
